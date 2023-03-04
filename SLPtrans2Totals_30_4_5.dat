@@ -1,0 +1,52 @@
+# Number of items
+30
+# Stacking height
+4
+# Number of stacks
+23
+# Item name, Appearance, First associated value, and Second associated value
+# (Appearance: 0 for I^{fix}, 1 for I^1, 2 for I^2)
+   001     0    74    73
+   002     0    38    70
+   003     0    53    51
+   004     0    11     8
+   005     0    43    51
+   006     0    10    50
+   007     0    27    52
+   008     0    24    81
+   009     0    73    96
+   010     0    84    85
+   011     0    50    95
+   012     0    93    70
+   013     1    58    51
+   014     1    63    27
+   015     1    29    72
+   016     1    35    35
+   017     1    71    62
+   018     1    23    26
+   019     1    68    94
+   020     1    80    85
+   021     1    81    79
+   022     1    75    88
+   023     1    36    59
+   024     1    50    57
+   025     2    88    52
+   026     2    33    59
+   027     2    64     6
+   028     2    61    36
+   029     2    76    77
+   030     2    39    36
+# Positions of Ifix-items in the format (itemName, stack, level)
+   001     5     1
+   002     8     1
+   003     1     2
+   004     2     2
+   005     1     3
+   006     9     1
+   007     4     1
+   008     2     1
+   009     6     1
+   010     1     1
+   011     3     1
+   012     7     1
+# Density of stacking matrix = 0.32
